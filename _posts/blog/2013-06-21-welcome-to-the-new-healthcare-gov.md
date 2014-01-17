@@ -17,6 +17,7 @@ Our mission is to help you understand your new health coverage options so you ca
 
 New features include:
 
+* More important points here!
 * The most important health insurance info at your fingertips—just [answer a few quick questions](/quick-answers/#step-1) and we’ll provide you with a personalized list of coverage options, content tailored to your situation, and a checklist to help you get ready 
 * An easy-to-understand question and answer format, with content based on the most common questions we hear
 * A simpler site structure and powerful search features that make it easy to find what you’re looking for 
